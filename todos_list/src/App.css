@@ -1,0 +1,29 @@
+.App {
+  margin: 30px 500px 0 500px;
+}
+
+.App .input_task {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 18px; 
+  border: 1px solid rgb(214, 150, 252) ;
+  padding: 8px 0 8px 0;
+  width: 600px;
+}
+
+.App .input_task:focus {
+  outline: none;
+  border: 2px solid rgb(173, 52, 243);
+  margin-bottom: 20px;
+}
+
+.header {
+  font-size: 60px;
+  color: rgb(214, 150, 252);
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
+
+
+
+
